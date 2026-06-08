@@ -1,0 +1,9 @@
+transformers
+torch
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+accelerate
+sentencepiece
